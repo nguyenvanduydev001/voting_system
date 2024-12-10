@@ -1,4 +1,4 @@
-# Decentralized Voting Application
+# Voting System
 
 This is a demo application to implement voting in solidity smart contract using ReactJS. 
 
