@@ -26,3 +26,8 @@ Once you have pasted your private key and contract address in the .env file, sim
 ```shell
 npm start
 ```
+
+#### Link to receive zkEVM ETH token 
+```link
+https://s.net.vn/oZaZ
+```
