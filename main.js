@@ -1,5 +1,5 @@
 let WALLET_CONNECTED = "";
-let contractAddress = "0xBcF0fb4494763168528B9Ceb9a5A618ED60D68dc"; // đổi địa chỉ khi chạy npx hardhat run --network zkEVM scripts/deploy.js
+let contractAddress = "0x417bbAA40B86C37500FF748b102EfE1F8e45F6d2"; // đổi địa chỉ khi chạy npx hardhat run --network zkEVM scripts/deploy.js
 let contractAbi = [
   {
     inputs: [
