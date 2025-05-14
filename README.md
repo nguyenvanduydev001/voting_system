@@ -13,7 +13,7 @@ This is a demo application to implement voting in Solidity smart contract.
 After you cloned the repository, you want to install the packages using
 
 ```shell
-npm install
+node index.js
 ```
 
 First, you need to compile and upload the contract to the blockchain network. To do so, run the following commands.
