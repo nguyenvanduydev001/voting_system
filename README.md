@@ -13,7 +13,7 @@ This is a demo application to implement voting in Solidity smart contract.
 After you cloned the repository, you want to install the packages using
 
 ```shell
-node index.js
+npm install
 ```
 
 First, you need to compile and upload the contract to the blockchain network. To do so, run the following commands.
@@ -28,7 +28,7 @@ Once the contract is uploaded to the blockchain, copy the contract address and p
 Once you have pasted your private key and contract address in the .env file, run the command
 
 ```shell
-npm start
+node index.js
 ```
 
 #### Link to receive zkEVM ETH token 
