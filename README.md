@@ -1,6 +1,6 @@
 # Voting System
 
-This is a demo application to implement voting in solidity smart contract. 
+This is a demo application to implement voting in Solidity smart contract. 
 
 [Youtube Tutorial](https://youtu.be/KPpumSEzoOo?si=GIQY7Dgr32DBmfqd)
 
@@ -16,16 +16,16 @@ After you cloned the repository, you want to install the packages using
 npm install
 ```
 
-You first need to compile the contract and upload it to the blockchain network. Run the following commands to compile and upload the contract.
+First, you need to compile and upload the contract to the blockchain network. To do so, run the following commands.
 
 ```shell
 npx hardhat compile
 npx hardhat run --network volta scripts/deploy.js
 ```
 
-Once the contract is uploaded to the blockchain, copy the contract address and copy it in the .env file. You can also use another blockchain by writing the blockchain's endpoint in hardhat-config.
+Once the contract is uploaded to the blockchain, copy the contract address and paste it in the .env file. You can also use another blockchain by writing the blockchain's endpoint in hardhat-config.
 
-Once you have pasted your private key and contract address in the .env file, simply run command
+Once you have pasted your private key and contract address in the .env file, run the command
 
 ```shell
 npm start
